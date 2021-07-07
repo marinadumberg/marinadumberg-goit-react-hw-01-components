@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/marinadumberg-goit-react-hw-01-components/static/css/main.516309ec.chunk.css",
+    "main.js": "/marinadumberg-goit-react-hw-01-components/static/js/main.c9b0b6c6.chunk.js",
+    "main.js.map": "/marinadumberg-goit-react-hw-01-components/static/js/main.c9b0b6c6.chunk.js.map",
+    "runtime-main.js": "/marinadumberg-goit-react-hw-01-components/static/js/runtime-main.68bac68c.js",
+    "runtime-main.js.map": "/marinadumberg-goit-react-hw-01-components/static/js/runtime-main.68bac68c.js.map",
+    "static/js/2.e3360c39.chunk.js": "/marinadumberg-goit-react-hw-01-components/static/js/2.e3360c39.chunk.js",
+    "static/js/2.e3360c39.chunk.js.map": "/marinadumberg-goit-react-hw-01-components/static/js/2.e3360c39.chunk.js.map",
+    "index.html": "/marinadumberg-goit-react-hw-01-components/index.html",
+    "static/css/main.516309ec.chunk.css.map": "/marinadumberg-goit-react-hw-01-components/static/css/main.516309ec.chunk.css.map",
+    "static/js/2.e3360c39.chunk.js.LICENSE.txt": "/marinadumberg-goit-react-hw-01-components/static/js/2.e3360c39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68bac68c.js",
+    "static/js/2.e3360c39.chunk.js",
+    "static/css/main.516309ec.chunk.css",
+    "static/js/main.c9b0b6c6.chunk.js"
+  ]
+}
